@@ -29,7 +29,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mklakshitha" alt="mklakshitha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kavindulakshi14" target="blank"><img src="https://img.shields.io/twitter/follow/kavindulakshi14?logo=twitter&style=for-the-badge" alt="kavindulakshi14" /></a> </p>
-
+<p><img align="right" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif"/></p>
 - 🔭 I’m currently working on [Web Application Development Project.](https://github.com/DaninduDilmina99/Final-Project)
 
 - 🌱 I’m currently learning **Programming Languages & Frameworks etc..**
