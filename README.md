@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Lakshitha</h1>
-[![An image of @mklakshitha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mklakshitha)](https://holopin.io/@mklakshitha)
+
 
 <p align="center">
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
